@@ -1,0 +1,3 @@
+Renault,Megan 2,Gri,2016,120000
+Opel,Corsa,Beyaz,2015,345609
+Ford,Mustang,Lacivert,1980,679193

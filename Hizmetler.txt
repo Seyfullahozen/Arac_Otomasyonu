@@ -1,0 +1,10 @@
+1-Araç içi temizlik kiti: 500
+2-Yedek lastik: 1000
+3-1 yıllık araç bakımı: 5000
+4-İlk 3 ay iç dış temizlik hizmeti: 500
+5-Far temizleme hizmeti: 300
+6-Koltuk koruma hizmeti: 800
+7-Boya koruma hizmeti: 1500
+8-Cam filmi uygulaması: 1200
+9-Lastik koruma hizmeti: 600
+10-Kaput koruma hizmeti: 2000
